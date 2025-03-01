@@ -25,7 +25,7 @@ Hello, I'm Rodrigo Carneiro!🧔🏽
 
 ##
 
-  <h3> Tech </h3>
+  <h3> Techs </h3>
     
   <div style="display: inline_block">  
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" />  
@@ -59,7 +59,7 @@ Hello, I'm Rodrigo Carneiro!🧔🏽
   
   ##
   
-  <h3> Como entrar em contato comigo | How to reach me:</h3>
+  <h3> Entre em contato comigo | Contact me:</h3>
   <div style="display: inline_block">    
   <a href="https://www.linkedin.com/in/carneironline" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
    
