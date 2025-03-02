@@ -60,6 +60,6 @@ Hello, I'm Rodrigo Carneiro!🧔🏽
   
   <h3> Entre em contato comigo | Contact me:</h3>
   <div style="display: inline_block">    
-  <a href="https://www.linkedin.com/in/carneironline" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/carneirorodrigo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
    
  </div>
